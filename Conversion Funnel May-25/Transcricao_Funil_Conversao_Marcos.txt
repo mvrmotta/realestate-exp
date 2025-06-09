@@ -1,0 +1,39 @@
+
+[INÍCIO DA SIMULAÇÃO - ROLEPLAY PROFISSIONAL]
+
+Gestor: Marcos, seja bem-vindo ao nosso ciclo semanal da equipe de Business Analytics. Você assumirá a análise de performance do funil de conversão de aluguel, com foco em São Paulo e Campinas.
+
+Tarefa 01: 
+- Criar um relatório no Power BI com dados fornecidos (funil de conversão).
+- Criar um sumário com hipóteses e interpretações.
+- Entrega até amanhã às 18h.
+
+Usuário: Confirmo que posso trabalhar com arquivos .xlsx, prefiro Power BI Desktop. Pode enviar os dados.
+
+Gestor: Aqui estão os arquivos:
+- dados_funnel_aluguel.xlsx
+- template_funnel_base.xlsx (criado em vez de um .pbix devido a limitações técnicas)
+
+Usuário: Notei que o template não é .pbix e está vazio, devo usar a base e criar do zero?
+
+Gestor: Correto. Use sua criatividade com base nos dados enviados. Reforcei que:
+- Visita Agendada = todas as linhas da base.
+- Visita Realizada = todas (não há status de no-show).
+- Contrato Assinado = filtrado por status final.
+
+Usuário: Entendido. Pode ser crítico comigo nos feedbacks.
+
+Gestor: Claro, sigo com feedbacks profissionais, diretos e construtivos.
+
+[ENTREGA REALIZADA - 09/06]
+
+Usuário: Entrego aqui o .pbix e o texto com análise. Aguardo feedback completo.
+
+Gestor: Feedback:
+- Dashboard: estrutura clara, medidas bem construídas, faltam refinamentos visuais e página executiva.
+- Texto: análise bem feita, precisa melhorar ortografia, tom e sugestões acionáveis.
+- Nota final simulada: 8.5/10
+
+Encerramento: Parabéns pela primeira entrega. Próxima tarefa será enviada amanhã às 9h.
+
+[FIM DA TRANSCRIÇÃO DO CICLO 1]
