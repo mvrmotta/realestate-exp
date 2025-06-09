@@ -1,0 +1,11 @@
+Análise de Funil Imobiliário de Maio/25
+
+Começamos a Análise avaliando o contexto geral do funil, Nossa mês de maio teve uma taxa de conversão de 60% no geral, que indica uma conversão acima da média, essa taxa de conversão se mostra igual para nossas filiais de São Paulo e Campinas, oque mostra uma boa distribuição. 
+Nossa Semana do mês mais produtiva foi a 2ª semana que de 7 visitas realizadas, 5 fecharam contrato. 
+
+Com relação ao tipo de imóvel, Apartamentos são o líder com 100% de conversão para o período analisado, com a maior procura entre os 3 tipos e intervalo médio entre agendamento e realização de 2 dias, o menor para a categoria;
+Studios não tiveram um bom resultado, com 0% de conversão e um interesse abaixo da média. Para responder essa baixa podemos analisar que o único corretor que conduziu visitas em studio foi o Carlos, levantando a necessidade de avaliação no próximo período se essa baixa se deve a falta de mais corretores alocados para studios, ou à baixa performance do Carlos. Apenas esse período não é suficiente para tirarmos conclusões.
+
+No assunto Corretores, Joana, João e Pedro tiveram um empate com ótima performance, todos tiveram 100% de conversão e venderam a mesma quantidade, porém pode se analisar que Pedro teve um tempo de realização maior que os outros (sem impacto nas vendas) , levantando a necessidade de avaliar se a proatividade dele está baixa ou se é o perfil dos clientes que procuram Casa.
+
+Já os corretores Carlos e Maria tiveram uma performance ruim ambos com 0% de conversão. Carlos foi mencionado anteriormente na baixa performance dos Studios, Maria levanta uma questão interessante, pois entre os indicadores analisados comparando Maria e Pedro (os únicos vendedores de Casa) a única diferença entre eles foi o tempo de realização enquanto Pedro demorou em média 5 dias para realizar as visitas mas vendeu em todas, Maria foi mais ágil e em média realizou as visitas em 1 dia, porém não vendeu nada. Então é interessante avaliar os próximos períodos para confirmar a tendencia do perfil de compradores de casa.
