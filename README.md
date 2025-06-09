@@ -33,9 +33,13 @@ The projects are inspired by operations and product flows typical of **real esta
 Each folder or commit represents a different analytical challenge or deliverable. Typical structure includes:
 
 /Project_Name/
+
 ├─ dataset.xlsx
+
 ├─ dashboard.pbix
+
 ├─ README.md (task-specific if needed)
+
 └─ summary.txt or summary.md (optional business interpretation)
 
 ---
