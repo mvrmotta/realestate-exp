@@ -2,7 +2,7 @@
 
 This repository presents a collection of **Business Analytics tasks and case studies** developed to simulate real-world challenges within the **Real Estate Tech industry**.
 
-Each project is delivered as if responding to stakeholder or team requests inside a data-driven company, focusing on transforming business data into actionable insights.
+Each project is delivered as if responding to stakeholder or team requests inside a data-driven company using ChatGPT to act as the superior, focusing on transforming business data into actionable insights.
 
 ---
 
